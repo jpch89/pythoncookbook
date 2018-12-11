@@ -1,0 +1,10 @@
+This is a test file.
+In this file, you can find nothing useful.
+Therefore don't be too expected.
+You are going to looking for a word.
+I'm not going to tell you this word yet.
+Because I have to make up all these sentences.
+Ok, the word is python.
+Now you have the word.
+The mission of this file is finished.
+Yeah, the word is python.
